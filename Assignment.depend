@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1519266782 source:/home/user/Documents/C_Files/Assignment/Assignment/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1519266782 /home/user/Documents/C_Files/Assignment/Assignment/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1519266782 source:/home/user/Documents/C_Files/Assignment/Assignment/lib/midi_lib.c
+	"midi_lib.h"
+
+1519266782 /home/user/Documents/C_Files/Assignment/Assignment/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1522174765 source:/home/user/Documents/C_Files/Assignment/Assignment/src/main.c
+	<graphics_lib.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+
